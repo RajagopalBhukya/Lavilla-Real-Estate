@@ -1,0 +1,37 @@
+{
+  "project": "Lavilla Realstate",
+  "passed": true,
+  "errors": [],
+  "failed": [],
+  "viewports": [
+    320,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "reducedLoadMs": 1268,
+  "checked": [
+    "unchanged logo and video asset hashes verified separately",
+    "independent Home and Interior sections",
+    "autoplay at 0.65x",
+    "offscreen video pausing",
+    "both sections wait for outgoing animation before advancing",
+    "mobile video has no scroll transforms",
+    "no playback controls or timeline bar",
+    "preloader unmount and scroll restoration",
+    "word reveal and mobile loader",
+    "scroll navigation and section animations",
+    "responsive overflow",
+    "reduced motion posters",
+    "mobile menu",
+    "form and calculator persistence",
+    "inquiry saving",
+    "overview download",
+    "modal dismissal",
+    "real touch events: Home to Interior and Interior to residence"
+  ],
+  "videoFormat": "Both original MP4s: H.264 High, 1920x1080, 30fps, yuv420p",
+  "productionBuild": "passed",
+  "coreTests": "passed"
+}
